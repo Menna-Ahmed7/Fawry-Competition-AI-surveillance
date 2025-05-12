@@ -1,0 +1,5 @@
+archive/
+outputs/
+surveillance-for-retail-stores/
+Test/
+finetuned_facenet.pth

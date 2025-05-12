@@ -1,0 +1,8 @@
+train:
+  - /kaggle/working/images/train
+
+val:
+  - /kaggle/working/images/val
+
+nc: 1
+names: ['person']

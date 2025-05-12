@@ -1,0 +1,10 @@
+train:
+  - /kaggle/input/selected-images/img_02/dataset/images/train
+  - /kaggle/input/selected-images/img_03/dataset/images/train
+  - /kaggle/input/selected-images/img_05/dataset/images/train
+val:
+  - /kaggle/input/selected-images/img_02/dataset/images/val
+  - /kaggle/input/selected-images/img_03/dataset/images/val
+  - /kaggle/input/selected-images/img_05/dataset/images/val
+nc: 1
+names: ['person']
